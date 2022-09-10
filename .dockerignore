@@ -1,0 +1,11 @@
+ci
+.github
+target
+node_modules
+node
+public
+start-site/target
+start-client/target
+start-client/node_modules
+start-client/node
+start-client/public
