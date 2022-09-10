@@ -13,7 +13,7 @@ You can use [Dive](https://github.com/wagoodman/dive) to inspect Docker image co
 ## Push to Docker Hub
 
 ```
-docker tag code-server-turbo-code-server:latest ziedzaiemcom/start-spring:0.0.1
+docker tag startspringio-start-spring:latest ziedzaiemcom/start-spring:0.0.1
 docker login -u ziedzaiemcom
 docker push ziedzaiemcom/start-spring:0.0.1
 ```
