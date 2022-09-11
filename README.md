@@ -9,6 +9,12 @@ This project adds Docker integration to run on own infrastructure or in isolated
 
 You can use [Dive](https://github.com/wagoodman/dive) to inspect Docker image contents.
 
+## Run
+
+```
+docker compose build
+docker compose up -d
+```
 
 ## Push to Docker Hub
 
